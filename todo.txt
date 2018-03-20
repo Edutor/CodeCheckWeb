@@ -1,0 +1,5 @@
+Roles
+Courses
+Course Instances?
+Admin module
+Downloadable Assignment files

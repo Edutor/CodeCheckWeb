@@ -1,0 +1,2 @@
+MySQL user: edutor
+MySQL password: MwQd25YZ99UhjJQY
